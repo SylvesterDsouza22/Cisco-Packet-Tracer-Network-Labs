@@ -124,6 +124,6 @@ show ip protocols
 ## 👨‍💻 Author
 
 Sylvester Dsouza
-Aspiring Cybersecurity Professional
+
 
 ---
